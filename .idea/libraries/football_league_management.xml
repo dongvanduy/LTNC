@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="football_league_management">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/football_management_ltnc-main/dist/football_league_management.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
